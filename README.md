@@ -1,2 +1,2 @@
 # Effiok-github
-Data extraction code in python
+Data extraction (syslog.file) code in python
